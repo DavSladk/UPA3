@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 FULL_PATH=$(realpath $0)
 DIR_PATH=$(dirname $FULL_PATH)
 ENV="${DIR_PATH}/venv"
