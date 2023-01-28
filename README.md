@@ -1,3 +1,5 @@
+hodnocení: 8/8
+
 ### Název týmu
 - Osamělí studenti
 
